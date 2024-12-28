@@ -61,8 +61,9 @@ EventWave ensures a dynamic and engaging experience for all stakeholders, levera
 | 5-6  | Thorough testing, implement flash wave feature, and debug issues. |
 | 7-8  | Finalize documentation, synchronize frontend and backend, and prepare for submission. |
 
-## ⚙️ Transition Graph
-![image](https://github.com/user-attachments/assets/9b0d97cb-933b-4a0b-852e-3bc34373cfa4)
+## ⚙️ Concept Image
+![image](https://github.com/user-attachments/assets/41751938-80c4-44b6-9697-5b8e439c98cd)
+
 
 ## 🎥 UI and Prototype
 Check out our interactive prototype: [EventWave Prototype](https://app.visily.ai/projects/d95341d2-71b0-4736-9958-19d9c286fdf7/boards/826474)
