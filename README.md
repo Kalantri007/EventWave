@@ -1,7 +1,5 @@
 # EventWave - Revolutionizing Audience Engagement at Live Events
 
-![EventWave Logo](path/to/logo.png) *(Optional: Add a logo or banner for the project)*
-
 ## 🚀 Inspiration
 EventWave is born out of the vision to transform live events into immersive and interactive experiences. By leveraging mobile technology and real-time communication, EventWave aims to create unforgettable moments for both event organizers and attendees.
 
